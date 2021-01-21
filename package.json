@@ -17,7 +17,7 @@
     "phantom": "^2.1.21",
     "serve-favicon": "^2.5.0",
     "soap": "^0.28.0",
-    "socket.io": "^1.2.0",
+    "socket.io": "^2.4.0",
     "swig": "^1.4.2",
     "ui-select": "^0.19.8",
     "webpage": "^0.3.0"
